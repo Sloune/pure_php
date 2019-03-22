@@ -1,0 +1,15 @@
+{
+    "name": "serhii_demianik/php_pure_crud",
+    "description": "Pure php project for user management",
+    "type": "project",
+    "authors": [
+        {
+            "name": "serhii.demianik",
+            "email": "demianik.serhii@yahoo.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.24",
+        "psr/log": "^1.1"
+    }
+}

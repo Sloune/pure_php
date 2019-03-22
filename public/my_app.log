@@ -1,0 +1,3 @@
+[2019-03-22 13:25:54] my_logger.INFO: Adding a new user {"username":"Serhii"} [][2019-03-22 13:26:34] my_logger.INFO: Adding a new user {"username":"Not Serhii"} []
+[2019-03-22 13:26:46] my_logger.INFO: User was updated. {"username":"No Serhii"} []
+[2019-03-22 13:26:53] my_logger.INFO: User was deleted. {"username":null} []
